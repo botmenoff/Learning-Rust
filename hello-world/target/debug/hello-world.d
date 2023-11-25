@@ -1,0 +1,1 @@
+C:\Users\Ferran\Documents\Grau\ Superior\ 2\DAM\Person\Learning-Rust\hello-world\target\debug\hello-world.exe: C:\Users\Ferran\Documents\Grau\ Superior\ 2\DAM\Person\Learning-Rust\hello-world\src\main.rs
