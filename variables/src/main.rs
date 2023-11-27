@@ -1,5 +1,7 @@
+
 fn main() {
-    let tup = (500, 6.4, 1);
-    let (x, y, z) = tup;
-    println!("The value of y is: {y}");
+    let s1 = String::from("hello");
+    let s2 = s1;
+
+    println!("{}, world!", s2);
 }
