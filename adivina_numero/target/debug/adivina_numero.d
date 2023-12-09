@@ -1,1 +1,0 @@
-C:\Users\Ferran\Documents\Grau\ Superior\ 2\DAM\Person\Learning-Rust\adivina_numero\target\debug\adivina_numero.exe: C:\Users\Ferran\Documents\Grau\ Superior\ 2\DAM\Person\Learning-Rust\adivina_numero\src\main.rs

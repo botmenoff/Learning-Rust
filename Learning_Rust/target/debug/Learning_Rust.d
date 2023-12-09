@@ -1,0 +1,1 @@
+C:\Users\Ferran\Documents\Grau\ Superior\ 2\DAM\Person\Learning-Rust\Learning_Rust\target\debug\Learning_Rust.exe: C:\Users\Ferran\Documents\Grau\ Superior\ 2\DAM\Person\Learning-Rust\Learning_Rust\src\main.rs
